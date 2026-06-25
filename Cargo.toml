@@ -1,0 +1,8 @@
+[workspace]
+resolver = "3"
+members = [
+    "crates/nefoxide-core",
+    "crates/nefoxide-nikon",
+    "crates/nefoxide-ffi",
+    "crates/nefoxide-cli",
+]
